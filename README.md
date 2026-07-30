@@ -1,6 +1,6 @@
 # IT Support Home Lab
 
-This repository documents my hands-on practice with computer hardware, Windows and Linux systems, software installation, virtualization, network connectivity, user support, and IT service-management workflows.
+This repository documents my hands-on practice with computer hardware, Windows and Linux systems, software installation, virtualization, network connectivity, user support, IT service-management workflows, and local AI systems.
 
 The goal is to demonstrate a structured troubleshooting process—not just list technical skills.
 
@@ -15,6 +15,7 @@ The goal is to demonstrate a structured troubleshooting process—not just list 
 - Documenting findings and resolutions
 - Escalating issues when appropriate
 - Explaining technical issues to nontechnical users
+- Applying privacy and security principles to local AI systems
 
 ## Lab Environment
 
@@ -25,6 +26,9 @@ The goal is to demonstrate a structured troubleshooting process—not just list 
 - Residential network environment
 - Windows administrative tools
 - Linux command-line tools
+- Docker and locally hosted applications
+- Ollama and local Llama models
+- Python
 - Basic networking and security utilities
 
 ## Repository Sections
@@ -70,6 +74,22 @@ Simulated service-desk documentation involving:
 - Knowledge-base articles
 - ITIL-aligned ticket lifecycle concepts
 
+### AI and Local LLM Lab
+
+Local AI projects involving:
+
+- Llama 3.2 3B
+- Ollama model management
+- Custom Modelfiles
+- Python integration
+- Local-first privacy and security
+- Linux and Docker troubleshooting
+- Human review and responsible AI use
+
+Featured project:
+
+- [CobraX CTO — Local Llama Model Lab](ai-lab/cobrax-cto-local-llama-model.md)
+
 ## Troubleshooting Method
 
 For each case, I aim to document:
@@ -87,7 +107,7 @@ For each case, I aim to document:
 
 ## Current Focus
 
-I am currently building this portfolio while completing an **AAS in Information Technology: Cybersecurity at Wake Technical Community College**. My focus is developing practical experience relevant to end-user support, enterprise IT, networking, and cybersecurity roles.
+I am currently building this portfolio while completing an **AAS in Information Technology: Cybersecurity at Wake Technical Community College**. My focus is developing practical experience relevant to end-user support, enterprise IT, networking, cybersecurity, and secure local AI systems.
 
 ## Important Notice
 
